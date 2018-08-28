@@ -21,7 +21,7 @@ Java版本的Swagger UI，在原有UI基础上进行微调UI，并不损失原�
 - 将patrick-swageer-ui.jar上传到Maven私服或本地Maven缓存目录
 - checkout swaager-demo，并等待编译通过
 - 在Application.java右击运行项目
-- 通过http://localhost:port/project-name/swagger-ui.html进行访问
+- 通过 http://localhost:port/project-name/swagger-ui.html 进行访问
 
 
 
