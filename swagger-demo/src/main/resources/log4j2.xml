@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration status="debug">
+
+	<Properties>
+		<Property name="LOG_HOME">${sys:user.home}/logs/patrick/sawgger-demo</Property>
+	</Properties>
+
+	<appenders>
+
+		<console name="Console" target="SYSTEM_OUT">
+			<PatternLayout
+				pattern="[%d{yyyy-MM-dd HH:mm:ss,SSS}] [%t] [%p] - %l -> %m %n" />
+		</console>
+
+	</appenders>
+
+	<loggers additicity="false">
+		<root level="debug">
+			<appender-ref ref="Console" />
+		</root>
+	</loggers>
+
+</configuration>
