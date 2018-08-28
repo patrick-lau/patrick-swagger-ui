@@ -1,5 +1,6 @@
 # 简介
 Java版本的Swagger UI，在原有UI基础上进行微调UI，并不损失原有UI特性。
+![案例](https://raw.githubusercontent.com/patrick-lau/patrick-swagger-ui/master/swagger-demo.png)
 
 ### patrick-swagger-ui
 - 核心UI界面，无Java代码
@@ -22,6 +23,11 @@ Java版本的Swagger UI，在原有UI基础上进行微调UI，并不损失原�
 - checkout swaager-demo，并等待编译通过
 - 在Application.java右击运行项目
 - 通过 http://localhost:port/project-name/swagger-ui.html 进行访问
+
+# 源代码
+![代码](https://raw.githubusercontent.com/patrick-lau/patrick-swagger-ui/master/swagger-code.png)
+
+
 
 
 
