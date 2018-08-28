@@ -16,7 +16,7 @@ Java版本的Swagger UI，在原有UI基础上进行微调UI，并不损失原�
 - [Springfox](https://github.com/springfox)
 - [Maven](http://maven.apache.org)
 
-# 使用指南(demo)
+# 使用指南
 - checkout patrick-swagger-ui, 并使用mvn package 生成jar
 - 将patrick-swageer-ui.jar上传到Maven私服或本地Maven缓存目录
 - checkout swaager-demo，并等待编译通过
