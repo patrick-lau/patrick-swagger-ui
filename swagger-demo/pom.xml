@@ -130,7 +130,7 @@
 		 <dependency>
 			<groupId>org.patrick</groupId>
 			<artifactId>patrick-swagger-ui</artifactId>
-			<version>0.0.3</version>
+			<version>1.0.1</version>
 		</dependency>
 
 		<dependency>
